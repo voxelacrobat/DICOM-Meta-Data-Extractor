@@ -1,0 +1,26 @@
+# DICOM Parser & Analyzer - Requirements
+# Python 3.8+
+
+# Core DICOM handling
+pydicom>=2.3.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Graph analysis
+networkx>=2.8.0
+
+# Interactive visualizations (optional but recommended)
+plotly>=5.11.0
+
+# Excel support
+openpyxl>=3.0.0
+xlsxwriter>=3.0.0
+
+# Additional utilities
+python-dateutil>=2.8.0
